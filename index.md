@@ -8,8 +8,6 @@ Join us for Geneseo's celebration of **Ada Lovelace Day 2023!** We'll be celebra
 
 All events in the **MacVittie Union College Ballroom**.
 
-*Ada Lovelace Day at SUNY Geneseo is brought to you by the <a href="https://geneseo.edu/cdl">Center for Digital Learning</a> and the <a href="https://geneseo.edu/cil">Center for Integative Learning</a>.*
-
 ## Schedule
 
 ### 9 am - 12 noon
