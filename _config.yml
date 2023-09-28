@@ -3,6 +3,7 @@ description: Celebrating Women in STEM and the connections between STEM and the 
 theme: just-the-docs
 
 url: https://cdl-geneseo.github.io/ald
+color_scheme: dark
 
-aux_links:
-  Template Repository: https://github.com/just-the-docs/just-the-docs-template
+# aux_links:
+  # Template Repository: https://github.com/just-the-docs/just-the-docs-template
