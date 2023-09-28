@@ -2,34 +2,39 @@
 title: Home
 layout: home
 ---
+# Join us!
 
-This is a *bare-minimum* template to create a Jekyll site that uses the [Just the Docs] theme. You can easily set the created site to be published on [GitHub Pages] – the [README] file explains how to do that, along with other details.
+Join us for Geneseo's celebration of **Ada Lovelace Day 2023!** We'll be celebrating women in STEM (Science, Technology, Engineering, and Math) as well as the connections between STEM and the arts and humanities.
 
-If [Jekyll] is installed on your computer, you can also build and preview the created site *locally*. This lets you test changes before committing them, and avoids waiting for GitHub Pages.[^1] And you will be able to deploy your local build to a different platform than GitHub Pages.
+All events in the **MacVittie Union College Ballroom**.
 
-More specifically, the created site:
+## Events
 
-- uses a gem-based approach, i.e. uses a `Gemfile` and loads the `just-the-docs` gem
-- uses the [GitHub Pages / Actions workflow] to build and publish the site on GitHub Pages
+### 9 am - 12 noon
 
-Other than that, you're free to customize sites that you create with this template, however you like. You can easily change the versions of `just-the-docs` and Jekyll it uses, as well as adding further plugins.
+- [Serenity Sutherland](https://serenitysutherland.com/), Assistant Professor of Communication Studies at SUNY Oswego, will introduce to her digital humanities project [Visualizing Women in Science](https://diglib.amphilsoc.org/womeninscience/) and explain how network graphs can provide important insights into human relationships.
+- Following Dr. Sutherland's presentation, participants will help make women scientists more visible on Wikipedia by adding biographical and other content to these scientists' pages. (Never edited Wikipedia before? It's easy. We'll have some cheat sheets here, and helpers will be on hand to guide you through the process.)
 
-[Browse our documentation][Just the Docs] to learn more about how to use this theme.
+### 1 pm - 2 pm
 
-To get started with creating a site, simply:
+Geneseo Professor of English Lytton Smith will lead a workshop on poetry and generative artificial intelligence
 
-1. click "[use this template]" to create a GitHub repository
-2. go to Settings > Pages > Build and deployment > Source, and select GitHub Actions
+### 2 pm - 3 pm
 
-If you want to maintain your docs in the `docs` directory of an existing project repo, see [Hosting your docs from an existing project repo](https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md#hosting-your-docs-from-an-existing-project-repo) in the template README.
+Geneseo Associate Professor of Phyics Anne Pellerin ​will give a presentation on ​neglected histories of women​ who've made important contributions to physics and astronomy.
 
-----
+## What is Ada Lovelace Day?
 
-[^1]: [It can take up to 10 minutes for changes to your site to publish after you push the changes to GitHub](https://docs.github.com/en/pages/setting-up-a-github-pages-site-with-jekyll/creating-a-github-pages-site-with-jekyll#creating-your-site).
+Ada Lovelace Day is an [international celebration of the achievements of women in STEM](https://findingada.com) held each year since 2009 on the second Tuesday in October. Since that day falls during Geneseo's fall break, we're marking ALD on October 12, after classes are back in session. But if you have a chance to check out the streaming events on October 10, we encourage you to do so!
 
-[Just the Docs]: https://just-the-docs.github.io/just-the-docs/
-[GitHub Pages]: https://docs.github.com/en/pages
-[README]: https://github.com/just-the-docs/just-the-docs-template/blob/main/README.md
-[Jekyll]: https://jekyllrb.com
-[GitHub Pages / Actions workflow]: https://github.blog/changelog/2022-07-27-github-pages-custom-github-actions-workflows-beta/
-[use this template]: https://github.com/just-the-docs/just-the-docs-template/generate
+## Who was Ada Lovelace?
+
+Born in 1815, Ada August King, Countess of Lovelace, collaborated with inventor Charles Babbage on his general purpose computing machine, the Analytical Engine. In 1843, Lovelace published what we would now call a computer program to generate Bernoulli Numbers. Although Babbage had written fragments of programs before, Lovelace's was the most complete, most elaborate and the first published. 
+
+More important, Lovelace was the first person to foresee the creative potential of the Engine. She explained how it could do so much more than merely calculate numbers, and could potentially create music and art, given the right programming and inputs. Her vision of computing's possibilities was unmatched by any of her peers and went unrecognised for a century.
+
+Ada Lovelace also saw poetry in numbers&mdash;no surprise, perhaps, given that she was the daughter of one of England's most famous romantic poets, George Gordon, Lord Byron. 
+
+![Ada Lovelace](https://upload.wikimedia.org/wikipedia/commons/2/2e/Ada_Lovelace_1838.jpg)
+
+
