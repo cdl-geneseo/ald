@@ -4,7 +4,7 @@ layout: home
 ---
 # Ada Lovelace Day 2023 at SUNY Geneseo
 
-<img src="images/AdaLovelaceDay_IndieEvent_transparent.jpg" style="float: right; width: 30%" />Join us for Geneseo's celebration of **Ada Lovelace Day 2023!** We'll be celebrating women in STEM (Science, Technology, Engineering, and Math) as well as the connections between STEM and the arts and humanities.
+<img src="images/AdaLovelaceDay_IndieEvent_transparent.jpg" style="float: right; width: 30%" alt="Ada Lovelace Day Indie Event logo" />Join us for Geneseo's celebration of **Ada Lovelace Day 2023!** We'll be celebrating women in STEM (Science, Technology, Engineering, and Math) as well as the connections between STEM and the arts and humanities.
 
 All events in the **MacVittie Union College Ballroom**.
 
