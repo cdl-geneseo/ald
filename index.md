@@ -13,8 +13,8 @@ All events in the **MacVittie Union College Ballroom**.
 
 ### 9 am - 12 noon
 
-- [Dr. Serenity Sutherland](https://serenitysutherland.com/), Assistant Professor of Communication Studies at SUNY Oswego, will exhibit her digital humanities project [Visualizing Women in Science](https://diglib.amphilsoc.org/womeninscience/) and explain how network graphs can provide important insights into human relationships.
-- Following Dr. Sutherland's presentation, participants will help make women scientists more visible on [Wikipedia](https://en.wikipedia.org) by adding biographical and other content to these scientists' pages. *Never edited Wikipedia before? It's easy. We'll have some cheat sheets available on this website, and helpers will be on hand to guide you through the process.*
+- **9-10:30:** [Dr. Serenity Sutherland](https://serenitysutherland.com/), Assistant Professor of Communication Studies at SUNY Oswego, will exhibit her digital humanities project [Visualizing Women in Science](https://diglib.amphilsoc.org/womeninscience/) and explain how network graphs can provide important insights into human relationships.
+- **10:30-12:** Following Dr. Sutherland's presentation, participants will help make women scientists more visible on [Wikipedia](https://en.wikipedia.org) by adding biographical and other content to these scientists' pages. *Never edited Wikipedia before? It's easy. We've provided a [quick introduction to editing Wikipedia]({{ site.url }}/wiki/overview) right on this website, and helpers will be on hand to guide you through the process.*
 
 ### 1 pm - 2 pm
 
