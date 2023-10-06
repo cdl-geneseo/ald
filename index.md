@@ -1,6 +1,7 @@
 ---
 title: Home
 layout: home
+nav_order: 0
 ---
 # Ada Lovelace Day 2023 at SUNY Geneseo
 
