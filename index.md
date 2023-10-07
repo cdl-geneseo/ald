@@ -36,7 +36,14 @@ More important, Lovelace was the first person to foresee the creative potential 
 
 Ada Lovelace also saw poetry in numbers&mdash;no surprise, perhaps, given that she was the daughter of one of England's most famous romantic poets, George Gordon, Lord Byron. 
 
+![Poster for Ada Lovelace Day 2023 at SUNY Geneseo](images/ALD_2023_poster.png)
+
+
+<!--
+
 ![Ada Lovelace portrait 1838](https://upload.wikimedia.org/wikipedia/commons/2/2e/Ada_Lovelace_1838.jpg)
 
 *Portrait of Ada Lovelace, 1838. <a href="https://commons.wikimedia.org/wiki/File:Ada_Lovelace_1838.jpg">William Henry Mote</a>, Public domain, via Wikimedia Commons*
+
+-->
 
