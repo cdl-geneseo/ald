@@ -5,5 +5,10 @@ theme: just-the-docs
 url: https://cdl-geneseo.github.io/ald
 color_scheme: dark
 
+callouts:
+  example:
+    title: Example
+    color: purple
+
 # aux_links:
   # Template Repository: https://github.com/just-the-docs/just-the-docs-template
