@@ -21,6 +21,10 @@ To cite a website on Wikipedia, we need the following information:
 - The URL of the web page with the information in question
 - The name of the website
 - A title for the citation
+- An author last name for the website (if appropriate)
+- An author first name for the website (if appropriate)
+- One or more additional last name/first name pairs if needed
+- A publisher for the website (if appropriate)
 - The date the website was retrieved for the information in question
 
 To cite a scientist's page from [Visualizing Women in Science](https://diglib.amphilsoc.org/womeninscience/), then, we'll need the URL of the page for that scientist. We'll use the following convention to title the citation:
@@ -33,10 +37,17 @@ Visualizing Women in Science: Name Of Scientist
 To return to the example of Marion Spencer Fay from our earlier discussion of the [Anatomy of a Wiki Article]({{ site.url}}/wiki/anatomy-of-a-wiki-article), here's how we might cite additional information that we add to the page.
 
 {: .example}
-Some new, added fact about Marion Spencer Fay.\<ref name="Visualizing Women in Science">\{\{cite web  
+Some new, added fact about Marion Spencer Fay.\<ref name="Visualizing Women in Science"\>\{\{cite web  
 |url=https://diglib.amphilsoc.org/womeninscience/bios/bio_079  
 |title=Visualizing Women in Science: Marion Spencer Fay  
-|accessdate=12 October 2023\}\}\</ref\>
+|last1=Sutherland  
+|first1=Serenity  
+|last2=Nelson  
+|first2=David Ragnar  
+|last3=Miller  
+|first3=Bayard L.  
+|publisher=American Philosophical Society  
+|accessdate=7 October 2023\}\}\</ref\>
 
 Let's break this down to get a better understanding of what's going into our citation.
 
@@ -59,22 +70,38 @@ Our opening `<ref>` tag also contains a bit of additional information in the for
 
 Wikitext allows for "templates," which are bits of text enclosed in doubled curly brackets: {% raw %}{{ }}{% endraw %}.
 
-The {% raw %}{{cite web}}{% endraw %} template (so named because it's for citing a website as source) has three lines inside it, each beginning with a horizontal bar or "pipe" symbol: `|`. So schematically, the structure looks like this:
+The {% raw %}{{cite web}}{% endraw %} template (so named because it's for citing a website as source) has multiple lines inside it, each beginning with a horizontal bar or "pipe" symbol: `|`. So schematically, the structure looks like this:
 
 {: .example}
 \{\{cite web  
-|url=someurl  
+|url=some url  
 |title=some title  
+|last1=author last name  
+|first1=author first name  
+|last2=second author last name   
+|first2=second author first name  
+|last3=third author last name  
+|first3=third author first name  
+|publisher=some publisher  
 |accessdate=some date\}\}
+
+If our source had only one author, we would indicate the last and first names with `last=` and `first=`, omitting the numbers. If our source had no stated author, we would omit the author name lines altogether. Ditto for the publisher.
 
 ## Putting it all together
 
 When we put the {% raw %}{{cite web}}{% endraw %} template inside the `<ref>` element, we get the following:
 
 {: .example}
-Content needing citation.\<ref name="Some Name">\{\{cite web  
-|url=someurl  
+Content needing citation.\<ref name="Some Name"\>\{\{cite web  
+|url=some url  
 |title=some title  
+|last1=author last name  
+|first1=author first name  
+|last2=second author last name  
+|first2=second author first name  
+|last3=third author last name  
+|first3=third author first name  
+|publisher=some publisher  
 |accessdate=some date\}\}\</ref\>
 
 ## To repeat
@@ -82,10 +109,17 @@ Content needing citation.\<ref name="Some Name">\{\{cite web
 Here, to repeat, is our example citation for some new fact about Marion Spencer Fay for which we want to cite the *Visualizing Women in Science* website. It follows the general structure described above: a {% raw %}{{cite web}}{% endraw %} template inside an html `<ref>` element. Hopefully the above explanation has made it easier to understand.
 
 {: .example}
-Some new, added fact about Marion Spencer Fay.\<ref name="Visualizing Women in Science">\{\{cite web  
+Some new, added fact about Marion Spencer Fay.\<ref name="Visualizing Women in Science">\{\{cite web   
 |url=https://diglib.amphilsoc.org/womeninscience/bios/bio_079  
 |title=Visualizing Women in Science: Marion Spencer Fay  
-|accessdate=12 October 2023\}\}\</ref\>
+|last1=Sutherland  
+|first1=Serenity  
+|last2=Nelson  
+|first2=David Ragnar  
+|last3=Miller  
+|first3=Bayard L.  
+|publisher=American Philosophical Society  
+|accessdate=7 October 2023\}\}\</ref\>
 
 ## Try it yourself
 
