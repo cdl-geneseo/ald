@@ -129,9 +129,9 @@ Notice that Wikipedia autonumbers any citations you add and automatically links 
 
 ### Editor view
 
-![Sample citation as shown in Wikipedia editor](../images/msf-citation-wikitext.png)
+[![Sample citation as shown in Wikipedia editor](../images/msf-citation-wikitext.png)](../images/msf-citation-wikitext.png)
 
 ### Published view
 
-![Sample citation as shown on published Wikipedia page](../images/msf-citation-published.png)
+[![Sample citation as shown on published Wikipedia page](../images/msf-citation-published.png)](../images/msf-citation-published.png)
 

@@ -12,4 +12,4 @@ Registering an account also enables you to create a personal sandbox where you c
 
 On the [Wikipedia homepage](https://en.wikipedia.org), click on "Create account" to bring up the account creation page. Be sure to use a unique, secure password and save it in a safe location.
 
-![Account creation on Wikipedia](../images/create-account.png)
+[![Account creation on Wikipedia](../images/create-account.png)](../images/create-account.png)
