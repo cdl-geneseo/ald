@@ -19,10 +19,10 @@ Below are some wikitext conventions you're likely to use often.
 | `''Two single quotes on either side.''` | *Two single quotes on either side.*  (Italic text.)|
 |`'''Three single quotes on either side.'''` | **Three single quotes on either side.** (Bold text.)|
 | `'''''Five single quotes on either side.'''''` | ***Five single quotes on either side.*** (Italic bold text.)|
-|`[[ October 10 ]]` | [October 10](https://en.wikipedia.org/wiki/October_10) (Link to the Wikipedia article named "October 10".) |
-| `[[ October 10 | October 10 article ]]` | [October 10 article](https://en.wikipedia.org/wiki/October_10) (Link to the Wikipedia article named "October 10", but make the linked text read, "October 10 article".) |
+|`[[October 10]]` | [October 10](https://en.wikipedia.org/wiki/October_10) (Link to the Wikipedia article named "October 10".) |
+| `[[October 10 | October 10 article]]` | [October 10 article](https://en.wikipedia.org/wiki/October_10) (Link to the Wikipedia article named "October 10", but make the linked text read, "October 10 article".) |
 | `[https://example.com Example website]` | [Example website](https://example.com) (Link to the website `example.com`, but make the linked text read, "Example website").|
-| `[[ Not A Page Yet ]]` | <span style="color:red">Not a Page Yet</span> (Link to a Wikipedia article that doesn't yet exist, named "Not A Page Yet". If you create this link on a page and save the page, you can then follow the link to create the new page, "Not A Page Yet". On the cheat sheet, Wikipedia calls this a "red link".) |
+| `[[Not A Page Yet]]` | <span style="color:red">Not a Page Yet</span> (Link to a Wikipedia article that doesn't yet exist, named "Not A Page Yet". If you create this link on a page and save the page, you can then follow the link to create the new page, "Not A Page Yet". On the cheat sheet, Wikipedia calls this a "red link".) |
 
 ## A few other conventions
 
