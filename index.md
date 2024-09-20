@@ -5,26 +5,43 @@ nav_order: 0
 ---
 # Ada Lovelace Day 2024 at SUNY Geneseo
 
-## 2024 Details coming soon!
+## Celebrate Women in Math and the Sciences!
+
+Ada Lovelace Day is an [international celebration of the achievements of women in STEM](https://findingada.com) held each year since 2009 on the second Tuesday in October.
+
+This year, SUNY Geneseo be marking Ada Lovelace Day with a poster session, a presentation by Professor and Chair of Political Science and International Relations [Karleen West](https://www.geneseo.edu/provost/karleen_west) on [collaborative efforts to support women in STEM at primarily undergraduate institutions in the U.S.](https://wp.geneseo.edu/coplacplan/), and a live stream of the speakers presenting at the Royal Institution, London.
+
+<div style="text-align: center;">
+<img src="https://findingada.com/wp-content/uploads/2024/09/All-speakers.jpg" alt="Poster for Ada Lovelace Day showing faces of speakers" />
+</div>
+
+## Schedule for Ada Lovelace Day at SUNY Geneseo
+
+### Poster Session | 1:00&ndash;4:00 p.m. | ISC Atrium
+
+Celebrate Geneseo women in STEM! Students will share posters in the ISC Atrium.
+
+### Presentation | 1:45&ndash;2:30 p.m. | ISC 137
+
+Learn from [Dr. Karleen West](https://www.geneseo.edu/provost/karleen_west), Professor and Chair of Political Science and International Relations, how Geneseo is [supporting women in STEM at primarily undergraduate institutions nationwide](https://wp.geneseo.edu/coplacplan/) through a grant from the National Science Foundation.
+
+### Watch Party | 2:30&ndash;4:30 p.m. | ISC 137 and Atrium
+
+The International Ada Lovelace Day event at the Royal Institution in London, England, will be streamed live in ISC 137 and the ISC Atrium, featuring these presentations:
+
+- Dr Evgenia Ilyinskaya, volcanologist: The Grindavík eruption in Iceland
+- Mamta Singhal MBE, design engineer: The science and engineering behind the humble rubber duck
+- Takita Bartlett-Lashley, mathematician: Using crafts to introduce mathematical concepts to children
+- Dr Samantha Terry, radiobiologist: The use of targeted radionuclide therapy in cancer treatments
+- Joysy John MBE, software engineer and education entrepreneur: The role of technology in education
+- Dr Sarah Bearchell, science writer, presenter, and trainer will create clouds live on stage!
+- Prof Anjali Goswami, paleobiologist: Why cats are evolutionarily perfect
 
 <!-- <img src="images/AdaLovelaceDay_IndieEvent_transparent.jpg" style="float: right; width: 30%" alt="Ada Lovelace Day Indie Event logo" />Join us for Geneseo's celebration of **Ada Lovelace Day 2023!** We'll be celebrating women in STEM (Science, Technology, Engineering, and Math) as well as the connections between STEM and the arts and humanities.
 
 All events in the **MacVittie Union College Ballroom**.
 
-## Schedule
 
-### 9 am - 12 noon
-
-- **9-10:30:** [Dr. Serenity Sutherland](https://serenitysutherland.com/), Assistant Professor of Communication Studies at SUNY Oswego, will exhibit her digital humanities project [Visualizing Women in Science](https://diglib.amphilsoc.org/womeninscience/) and explain how network graphs can provide important insights into human relationships.
-- **10:30-12:** Following Dr. Sutherland's presentation, participants will help make women scientists more visible on [Wikipedia](https://en.wikipedia.org) by adding biographical and other content to these scientists' pages. *Never edited Wikipedia before? It's easy. We've provided a [quick introduction to editing Wikipedia]({{ site.url }}/wiki/overview) right on this website, and helpers will be on hand to guide you through the process.*
-
-### 1 pm - 2 pm
-
-Geneseo Professor of English [Lytton Smith](https://www.geneseo.edu/english/smith) will lead a workshop on **poetry and generative artificial intelligence**.
-
-### 2 pm - 3 pm
-
-Geneseo Associate Professor of Phyics [Anne Pellerin](https://www.geneseo.edu/physics/pellerin) ​will give a presentation on **​neglected histories of women​ who've made important contributions to physics and astronomy**.
 
 ## What is Ada Lovelace Day?
 

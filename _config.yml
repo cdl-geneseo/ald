@@ -3,11 +3,11 @@ description: Celebrating Women in STEM and the connections between STEM and the 
 theme: just-the-docs
 
 url: https://cdl-geneseo.github.io/ald
-color_scheme: dark
+# color_scheme: dark
 
 callouts:
-  example:
-    title: Example
+  important:
+    title: Important
     color: purple
 
 # aux_links:
