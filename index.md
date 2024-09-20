@@ -3,9 +3,11 @@ title: Home
 layout: home
 nav_order: 0
 ---
-# Ada Lovelace Day 2023 at SUNY Geneseo
+# Ada Lovelace Day 2024 at SUNY Geneseo
 
-<img src="images/AdaLovelaceDay_IndieEvent_transparent.jpg" style="float: right; width: 30%" alt="Ada Lovelace Day Indie Event logo" />Join us for Geneseo's celebration of **Ada Lovelace Day 2023!** We'll be celebrating women in STEM (Science, Technology, Engineering, and Math) as well as the connections between STEM and the arts and humanities.
+## 2024 Details coming soon!
+
+<!-- <img src="images/AdaLovelaceDay_IndieEvent_transparent.jpg" style="float: right; width: 30%" alt="Ada Lovelace Day Indie Event logo" />Join us for Geneseo's celebration of **Ada Lovelace Day 2023!** We'll be celebrating women in STEM (Science, Technology, Engineering, and Math) as well as the connections between STEM and the arts and humanities.
 
 All events in the **MacVittie Union College Ballroom**.
 
@@ -26,7 +28,7 @@ Geneseo Associate Professor of Phyics [Anne Pellerin](https://www.geneseo.edu/ph
 
 ## What is Ada Lovelace Day?
 
-Ada Lovelace Day is an [international celebration of the achievements of women in STEM](https://findingada.com) held each year since 2009 on the second Tuesday in October. Since that day falls during Geneseo's fall break, we're marking ALD on October 12, after classes are back in session. But if you have a chance to check out the streaming events on October 10, we encourage you to do so!
+Ada Lovelace Day is an [international celebration of the achievements of women in STEM](https://findingada.com) held each year since 2009 on the second Tuesday in October. Since that day falls during Geneseo's fall break, we're marking ALD on October 12, after classes are back in session. But if you have a chance to check out the streaming events on October 10, we encourage you to do so! -->
 
 ## Who was Ada Lovelace?
 
@@ -36,10 +38,9 @@ More important, Lovelace was the first person to foresee the creative potential 
 
 Ada Lovelace also saw poetry in numbers&mdash;no surprise, perhaps, given that she was the daughter of one of England's most famous romantic poets, George Gordon, Lord Byron. 
 
+<!-- 
+
 ![Poster for Ada Lovelace Day 2023 at SUNY Geneseo](images/ALD_2023_poster.png)
-
-
-<!--
 
 ![Ada Lovelace portrait 1838](https://upload.wikimedia.org/wikipedia/commons/2/2e/Ada_Lovelace_1838.jpg)
 
