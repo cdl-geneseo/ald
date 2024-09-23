@@ -17,7 +17,7 @@ This year, SUNY Geneseo be marking Ada Lovelace Day with a poster session, a pre
 
 ## Schedule for Ada Lovelace Day at SUNY Geneseo
 
-### Poster Session | 1:00&ndash;4:00 p.m. | ISC Atrium
+### Poster Session | 2:00&ndash;4:00 p.m. | ISC Atrium
 
 Celebrate Geneseo women in STEM! Students will share posters in the ISC Atrium.
 
