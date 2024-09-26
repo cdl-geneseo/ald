@@ -9,7 +9,7 @@ nav_order: 0
 
 Ada Lovelace Day is an [international celebration of the achievements of women in STEM](https://findingada.com) held each year since 2009 on the second Tuesday in October.
 
-This year, SUNY Geneseo be marking Ada Lovelace Day with a poster session, a presentation by [Dr. Karleen West](https://www.geneseo.edu/provost/karleen_west), Professor and Chair of Political Science and International Relations, on [collaborative efforts to support women in STEM at primarily undergraduate institutions in the U.S.](https://wp.geneseo.edu/coplacplan/), and a live stream of the speakers presenting at the Royal Institution, London.
+This year, SUNY Geneseo will be marking Ada Lovelace Day with a poster session, a presentation by [Dr. Karleen West](https://www.geneseo.edu/provost/karleen_west), Professor and Chair of Political Science and International Relations, on [collaborative efforts to support women in STEM at primarily undergraduate institutions in the U.S.](https://wp.geneseo.edu/coplacplan/), and a live stream of the speakers presenting at the Royal Institution, London.
 
 <div style="text-align: center;">
 <img src="https://findingada.com/wp-content/uploads/2024/09/All-speakers.jpg" alt="Poster for Ada Lovelace Day showing faces of speakers" />
