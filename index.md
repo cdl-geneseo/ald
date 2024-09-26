@@ -25,7 +25,7 @@ Celebrate Geneseo women in STEM! Students will share posters in the ISC Atrium.
 
 Learn from [Dr. Karleen West](https://www.geneseo.edu/provost/karleen_west), Professor and Chair of Political Science and International Relations, how Geneseo is [supporting women in STEM at primarily undergraduate institutions nationwide](https://wp.geneseo.edu/coplacplan/) through a grant from the National Science Foundation.
 
-### Watch Party | 2:30&ndash;4:30 p.m. | ISC 137 and Atrium
+### World-Wide Watch Party | 2:30&ndash;4:30 p.m. | ISC 137 and Atrium
 
 The International Ada Lovelace Day event at the Royal Institution in London, England, will be streamed live in ISC 137 and the ISC Atrium, featuring these presentations:
 
