@@ -23,7 +23,7 @@ Celebrate Geneseo women in STEM! Students will share posters in the ISC Atrium.
 
 ### Presentation | 1:45&ndash;2:30 p.m. | ISC 137
 
-Learn from [Dr. Karleen West](https://www.geneseo.edu/provost/karleen_west), Professor and Chair of Political Science and International Relations, how Geneseo [will help support women in STEM at primarily undergraduate institutions nationwide](https://wp.geneseo.edu/coplacplan/) through a grant from the National Science Foundation.
+Learn from [Dr. Karleen West](https://www.geneseo.edu/provost/karleen_west), Professor and Chair of Political Science and International Relations, how Geneseo [is helping to support women in STEM at primarily undergraduate institutions nationwide](https://wp.geneseo.edu/coplacplan/) through a grant from the National Science Foundation.
 
 ### World-Wide Watch Party | 2:30&ndash;4:30 p.m. | ISC 137 and Atrium
 
